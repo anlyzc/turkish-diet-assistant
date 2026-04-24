@@ -1,0 +1,5 @@
+{
+  "menemen": {"calories": 250, "protein": 12, "carbs": 10, "fat": 15},
+  "lahmacun": {"calories": 350, "protein": 15, "carbs": 40, "fat": 12},
+  "pilav": {"calories": 200, "protein": 4, "carbs": 45, "fat": 2}
+}
